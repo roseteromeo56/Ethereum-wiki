@@ -3,7 +3,7 @@
 ![1f477](https://github.com/user-attachments/assets/ac4a161a-3e5e-4862-8021-ea71fbb00ce9)
 ![1f469-200d-1f52c](https://github.com/user-attachments/assets/a17452c3-195b-4bfb-a287-6f077812cd6a)
 # Wiki
-Romeo Rosete . Owner 
+Romeo Rosete Owner 
 
 :no_entry_sign: **no longer actively maintained** :no_entry_sign:
 

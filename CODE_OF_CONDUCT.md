@@ -1,5 +1,5 @@
 # Contributor Covenant Code of Conduct
-Romeo Rosete .  Owner 
+Romeo Rosete Owner 
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
